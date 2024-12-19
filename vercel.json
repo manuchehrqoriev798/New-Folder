@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/manifest.json",
+      "headers": {
+        "Content-Type": "application/manifest+json",
+        "Access-Control-Allow-Origin": "*"
+      }
+    }
+  ],
+  "env": {
+    "NEWS_API_KEY": "312226b6fffb495b89d92b2e08d6e4c4"
+  }
+} 
